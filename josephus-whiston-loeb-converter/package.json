@@ -1,7 +1,7 @@
 {
   "name": "josephus-whiston-loeb-converter",
   "version": "0.1.0",
-  "homepage": "https://jmowens.github.io/josephus-whiston-loeb-converter",
+  "homepage": "https://jmowens.github.io/josephus-whiston-loeb-converter/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
